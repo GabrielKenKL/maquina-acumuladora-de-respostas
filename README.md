@@ -6,3 +6,5 @@ Caso ela não tenha essa pergunta em seu armazenamento, ela exibe uma mensagem q
 A pergunta e a sugestão de resposta não são aplicadas diretamente a máquina. Elas são enviadas para um arquivo de texto.
 Nesse arquivo de texto elas ficam armazenadas para serem analisadas por um gestor de mensagens, humano. Se forem aprovadas, basta arrastar a pergunta e a resposta para o módulo respostas().
 As perguntas e as respostas são armazenadas no arquivo já formatadas e prontas para serem enviados para a máquina.
+
+A máquina ainda tem muito a evoluir. Envie uma sugestão de melhora! Obrigado pela atenção.
