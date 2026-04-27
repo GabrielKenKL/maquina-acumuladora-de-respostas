@@ -53,6 +53,7 @@ def main():
     while (Frase != 'Tchau'):
         if (cta == 0):
             print('Olá, eu sou a máquina que busca ser sua amiga! Faça perguntas para mim e se eu souber te responderei. Quando quiser ir embora, basta digitar Tchau.')
+            cta == 1
         Frase = str(input('O que você gostaria de dizer: '))
         respostas()
 
@@ -87,7 +88,10 @@ def main():
 def respostas():
     if (Frase == 'Olá, tudo bem?'):
         Resposta == 'Oii, tudo sim!' + '\n' + 'E você está bem?'
-
+    elif (Frase == "Qual seu nome?"):
+        Resposta == "Eu não tenho um :("
+    elif (Frase == "Hello World"):
+        Resposta == "O mundo acena de volta!"
     else:
         coletor()
 
