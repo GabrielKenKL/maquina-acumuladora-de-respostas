@@ -1,0 +1,8 @@
+Author: Gabriel Ken Kudo de Lima
+
+A máquina foi uma ideia que tive me baseando em IAs. Seu funcionamento é feito da seguinte forma:
+Você usuário faz uma pergunta a máquina. Se ela tiver uma resposta, ela printa em console, respondendo a sua questão.
+Caso ela não tenha essa pergunta em seu armazenamento, ela exibe uma mensagem que informa o usuário, dizendo que não possui uma resposta para a pergunta, pedindo por uma sugestão.
+A pergunta e a sugestão de resposta não são aplicadas diretamente a máquina. Elas são enviadas para um arquivo de texto.
+Nesse arquivo de texto elas ficam armazenadas para serem analisadas por um gestor de mensagens, humano. Se forem aprovadas, basta arrastar a pergunta e a resposta para o módulo respostas().
+As perguntas e as respostas são armazenadas no arquivo já formatadas e prontas para serem enviados para a máquina.
