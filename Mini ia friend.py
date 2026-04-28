@@ -40,7 +40,7 @@ def coletor():
         if (os.path.exists(arquivo)):
             tipo = 'a'
         
-        conteudo = frase + '\n' + resposta + '\n'
+        conteudo = frase + '\n' + resposta + '\n' + printe + '\n'
         with open (arquivo, tipo, encoding=enc) as file:
             file.write(conteudo)
 
