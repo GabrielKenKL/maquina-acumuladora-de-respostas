@@ -12,14 +12,18 @@ A máquina ainda tem muito a evoluir. Envie uma sugestão de melhora! Obrigado p
 
 VERSÕES:
 Versão 1:
-Código base em teste;
-Perguntas base;
-Escrita de mensagens e respotas sem formatação em arquivo de texto.
+- Código base em teste;
+- Perguntas base;
+- Escrita de mensagens e respotas sem formatação em arquivo de texto.
 
 Versão 1.1:
-Aprimoramento do código base;
+- Aprimoramento do código base;
 
 Versão 1.2:
-Consertos no código;
-novas perguntas;
-escrita de mensagens e respostas em arquivo de texto, agora formatado para implantação em máquina.
+- conserto de erros técnicos importantes;
+- Algumas novas respostas;
+- Print em console da versão da máquina e
+- Print para melhora na visualização em console.
+
+Versão 1.2.1:
+- Adição na formatação de print de resposta
