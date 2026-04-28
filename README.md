@@ -8,3 +8,18 @@ Nesse arquivo de texto elas ficam armazenadas para serem analisadas por um gesto
 As perguntas e as respostas são armazenadas no arquivo já formatadas e prontas para serem enviados para a máquina.
 
 A máquina ainda tem muito a evoluir. Envie uma sugestão de melhora! Obrigado pela atenção.
+
+
+VERSÕES:
+Versão 1:
+Código base em teste;
+Perguntas base;
+Escrita de mensagens e respotas sem formatação em arquivo de texto.
+
+Versão 1.1:
+Aprimoramento do código base;
+
+Versão 1.2:
+Consertos no código;
+novas perguntas;
+escrita de mensagens e respostas em arquivo de texto, agora formatado para implantação em máquina.
